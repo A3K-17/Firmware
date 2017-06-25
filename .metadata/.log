@@ -1,0 +1,267 @@
+!SESSION 2017-06-17 10:53:51.664 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/consoledator/azk17/Firmware -os linux -ws gtk -arch x86_64
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2017-06-17 10:53:56.340
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2017-06-17 10:53:56.358
+!MESSAGE OS info: Linux, 4.8.0-54-generic, amd64
+
+!ENTRY TrueSTUDIO 1 0 2017-06-17 10:54:01.087
+!MESSAGE Target: ARM, Version: 8.0.0, Build date: 20170613-1118, Installation dir: /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.0.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2017-06-17 10:54:01.087
+!MESSAGE Workspace: /home/consoledator/azk17/Firmware
+
+!ENTRY LicenseSystem 1 0 2017-06-17 10:54:01.092
+!MESSAGE Updated java.library.path to: /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.0.0/ide:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+
+!ENTRY TrueSTUDIO License 1 0 2017-06-17 10:54:01.343
+!MESSAGE Valid local features found: 0
+
+!ENTRY TrueSTUDIO License 1 0 2017-06-17 10:54:01.345
+!MESSAGE Valid network features found: 0
+
+!ENTRY TrueSTUDIO License 1 0 2017-06-17 10:54:01.347
+!MESSAGE License system initialized in 136ms
+
+!ENTRY TrueSTUDIO 1 0 2017-06-17 10:54:01.438
+!MESSAGE License numbers: 0 []
+
+!ENTRY TrueSTUDIO 1 0 2017-06-17 10:54:01.439
+!MESSAGE This installation is running as LITE
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2017-06-17 10:54:06.963
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY org.eclipse.jface 2 0 2017-06-17 10:54:07.126
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-06-17 10:54:07.126
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@302da330,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3568ea59,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 2 0 2017-06-17 10:54:07.306
+!MESSAGE Could not register either review selection listener or part listener.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2017-06-17 10:54:07.351
+!MESSAGE Code Review is up.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2017-06-17 10:55:00.064
+!MESSAGE Unloading product manager
+!SESSION 2017-06-18 15:12:02.054 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/consoledator/azk17/Firmware -os linux -ws gtk -arch x86_64
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2017-06-18 15:12:11.142
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2017-06-18 15:12:11.231
+!MESSAGE OS info: Linux, 4.8.0-54-generic, amd64
+
+!ENTRY TrueSTUDIO 1 0 2017-06-18 15:12:18.340
+!MESSAGE Target: ARM, Version: 8.0.0, Build date: 20170613-1118, Installation dir: /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.0.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2017-06-18 15:12:18.340
+!MESSAGE Workspace: /home/consoledator/azk17/Firmware
+
+!ENTRY LicenseSystem 1 0 2017-06-18 15:12:18.354
+!MESSAGE Updated java.library.path to: /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.0.0/ide:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+
+!ENTRY TrueSTUDIO License 1 0 2017-06-18 15:12:18.802
+!MESSAGE Valid local features found: 0
+
+!ENTRY TrueSTUDIO License 1 0 2017-06-18 15:12:18.802
+!MESSAGE Valid network features found: 0
+
+!ENTRY TrueSTUDIO License 1 0 2017-06-18 15:12:18.803
+!MESSAGE License system initialized in 35ms
+
+!ENTRY TrueSTUDIO 1 0 2017-06-18 15:12:18.859
+!MESSAGE License numbers: 0 []
+
+!ENTRY TrueSTUDIO 1 0 2017-06-18 15:12:18.859
+!MESSAGE This installation is running as LITE
+
+!ENTRY org.eclipse.jface 2 0 2017-06-18 15:12:26.943
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-06-18 15:12:26.943
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@72f24a84,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@49d543a9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2017-06-18 15:12:46.595
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2017-06-18 15:12:46.931
+!MESSAGE Code Review is up.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2017-06-18 15:13:21.608
+!MESSAGE Unloading product manager
+!SESSION 2017-06-18 16:08:18.040 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/consoledator/azk17/Firmware -os linux -ws gtk -arch x86_64
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2017-06-18 16:08:23.615
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2017-06-18 16:08:23.712
+!MESSAGE OS info: Linux, 4.8.0-54-generic, amd64
+
+!ENTRY TrueSTUDIO 1 0 2017-06-18 16:08:29.414
+!MESSAGE Target: ARM, Version: 8.0.0, Build date: 20170613-1118, Installation dir: /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.0.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2017-06-18 16:08:29.414
+!MESSAGE Workspace: /home/consoledator/azk17/Firmware
+
+!ENTRY LicenseSystem 1 0 2017-06-18 16:08:29.430
+!MESSAGE Updated java.library.path to: /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.0.0/ide:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+
+!ENTRY TrueSTUDIO License 1 0 2017-06-18 16:08:29.609
+!MESSAGE Valid local features found: 0
+
+!ENTRY TrueSTUDIO License 1 0 2017-06-18 16:08:29.609
+!MESSAGE Valid network features found: 0
+
+!ENTRY TrueSTUDIO License 1 0 2017-06-18 16:08:29.609
+!MESSAGE License system initialized in 25ms
+
+!ENTRY TrueSTUDIO 1 0 2017-06-18 16:08:29.616
+!MESSAGE License numbers: 0 []
+
+!ENTRY TrueSTUDIO 1 0 2017-06-18 16:08:29.617
+!MESSAGE This installation is running as LITE
+
+!ENTRY org.eclipse.jface 2 0 2017-06-18 16:08:34.626
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-06-18 16:08:34.626
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1fb71788,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@8cb7185,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2017-06-18 16:08:52.115
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2017-06-18 16:08:52.269
+!MESSAGE Code Review is up.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2017-06-18 16:09:38.507
+!MESSAGE Unloading product manager
+!SESSION 2017-06-18 16:13:15.707 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/consoledator/azk17/Firmware -os linux -ws gtk -arch x86_64
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2017-06-18 16:13:24.943
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2017-06-18 16:13:24.970
+!MESSAGE OS info: Linux, 4.8.0-54-generic, amd64
+
+!ENTRY TrueSTUDIO 1 0 2017-06-18 16:13:30.559
+!MESSAGE Target: ARM, Version: 8.0.0, Build date: 20170613-1118, Installation dir: /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.0.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2017-06-18 16:13:30.560
+!MESSAGE Workspace: /home/consoledator/azk17/Firmware
+
+!ENTRY LicenseSystem 1 0 2017-06-18 16:13:30.570
+!MESSAGE Updated java.library.path to: /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.0.0/ide:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+
+!ENTRY TrueSTUDIO License 1 0 2017-06-18 16:13:31.241
+!MESSAGE Valid local features found: 0
+
+!ENTRY TrueSTUDIO License 1 0 2017-06-18 16:13:31.243
+!MESSAGE Valid network features found: 0
+
+!ENTRY TrueSTUDIO License 1 0 2017-06-18 16:13:31.245
+!MESSAGE License system initialized in 160ms
+
+!ENTRY TrueSTUDIO 1 0 2017-06-18 16:13:31.305
+!MESSAGE License numbers: 0 []
+
+!ENTRY TrueSTUDIO 1 0 2017-06-18 16:13:31.306
+!MESSAGE This installation is running as LITE
+
+!ENTRY org.eclipse.jface 2 0 2017-06-18 16:13:37.362
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-06-18 16:13:37.362
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3c3ab672,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3e6acec2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2017-06-18 16:13:54.322
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2017-06-18 16:13:54.934
+!MESSAGE Code Review is up.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2017-06-18 16:15:50.878
+!MESSAGE Unloading product manager
